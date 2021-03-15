@@ -1,0 +1,10 @@
+{
+  "name": "github-explore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Renan",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
